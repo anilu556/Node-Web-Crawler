@@ -1,0 +1,23 @@
+{
+  "name": "Node-Web-Crawler",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilu556/Node-Web-Crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilu556/Node-Web-Crawler/issues"
+  },
+  "homepage": "https://github.com/anilu556/Node-Web-Crawler#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
